@@ -1,0 +1,44 @@
+webburza_location:
+    ui:
+        locations: Localisations
+        location_types: Types de Localisation
+        new_location: Nouvelle localisation
+        edit_location: Modifer la localisation
+        new_location_type: Nouveau type de Localisation
+        edit_location_type: Modifier le type de Localisation
+        all_locations: Toutes les localisations
+        search_term: Nom, rue, adresse …
+        details: Détails
+        contact: Contact
+        open_in_gm: Ouvrir dans Google Map
+        back: Retour à toutes les localisations
+    form:
+        location:
+            translations: Traductions
+            images: Images
+            internal_name: Nom interne
+            phone: Téléphone
+            email: Courriel
+            latitude: Latitude
+            longitude: Longitude
+            location_type: Type
+            published: Publié
+        location_translation:
+            name: Nom
+            street_name: Rue
+            street_number: Numéro dans la rue
+            city: Ville
+            zip: Code postal
+            state: État
+            country: Pays
+            working_hours: Horaires d’ouverture
+            description: Déscription
+            meta_keywords: Meta keywords
+            meta_description: Meta description
+        location_image:
+            file: Fichier
+        location_type:
+            code: Code
+            translations: Traduction
+        location_type_translation:
+            name: Nom
